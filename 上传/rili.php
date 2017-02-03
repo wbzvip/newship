@@ -5,7 +5,7 @@
 		<meta charset="UTF-8">
 		<title>我的第一个php万年历</title>
 		<meta charset="utf-8" />
-        <meta name="Author" content="zhouyg1992">  
+        <meta name="Author" content="wbzvip1993">  
         <meta name="Description" content="用php实现的一个简单万年历">  
         <style type="text/css">
         	 table #week {  
